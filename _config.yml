@@ -82,10 +82,10 @@ analytics:
 author:
   name             : "Cuong Than"
   avatar           : "profile.png"
-  bio              : "Master student in Theoretical Computer Science"
+  bio              : "Master Student in Theoretical Computer Science"
   location         : "Lincoln, Nebraska"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=u2WetNAAAAAJ&hl=en"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
