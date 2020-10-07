@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
 excerpt: 'This paper is about game theory: Schelling Models with Localized Social Influence.'
 date: 2020-05-05
-venue: 'AAMAS'
+venue: 'AAMAS 2020'
 paperurl: 'http://www.bowdoin.edu/~mirfan/papers/Schelling_AAMAS2020.pdf'
 citation: 'Chan, H., Irfan, M.T. and Than, C.V., &quot;Schelling Models with Localized Social Influence: A Game-Theoretic Framework.&quot; <i>The 19th International Conference on Autonomous Agents and MultiAgent Systems</i>. 1(2).'
 ---
