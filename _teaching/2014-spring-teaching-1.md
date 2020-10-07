@@ -1,20 +1,10 @@
 ---
-title: "Teaching experience 1"
+title: "Teaching assisstant in Design and Analysis Algorithms"
 collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+type: "Undergraduate course for talent engineer class"
+venue: "Hanoi University of Science and Technology, School of Information and Communication Technology"
+date: Fall 2018
+location: "Hanoi, Vietnam"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+Grading and preparing final projects materials for students
