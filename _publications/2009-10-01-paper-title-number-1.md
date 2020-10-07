@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'This paper is about  maximum induced matching problem in permutation graphs.'
 date: 2018-10-25
-venue: 'ACDT 2018'
+venue: 'ACDT'
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/8593004'
 citation: 'VC Than, PT Do. (2018). &quot;An O (n√ n log log n) average case algorithm for the maximum induced matching problem in permutation graphs .&quot; <i>2018 5th Asian Conference on Defense Technology (ACDT)</i>. 1(1).'
 ---
