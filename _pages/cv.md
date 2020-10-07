@@ -11,21 +11,18 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Computer Science, Hanoi University of Science and Technology, 2019
+* M.S. in Computer Science, University of Nebraska - Lincoln, 2021
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Fall 2017 - Spring 2019: Research Assistant
+  * MSO Lab, Hanoi University of Science and Technology
+  * Project: Algorithms solving the maximal induced matching in perfect graphs
+  
+* Fall 2019: Research Assistant
+  * Computational Decision Science Lab, University of Nebraska - Lincoln
+  * Project: Schelling games on graphs
   
 Skills
 ======
@@ -50,9 +47,13 @@ Talks
   
 Teaching
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* Fall 2018 - Spring 2019: Teaching Assistant
+  * Hanoi University of Science and Technology
+  * Courses: Design and Analysis Algorithms, Discrete Mathematics
+
+* Fall 2019 - present: Teaching Assistant
+  * University of Nebraska - Lincoln,
+  * Courses: Introduction to Computer Science, Design and Analysis Algorithms
   
 Service and leadership
 ======
