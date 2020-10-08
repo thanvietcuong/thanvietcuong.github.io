@@ -12,7 +12,16 @@ redirect_from:
 Education
 ======
 * B.S. in Computer Science, Hanoi University of Science and Technology, 2019
-* M.S. in Computer Science, University of Nebraska - Lincoln, 2021
+  * CPA: 3.69 (rank 1st in the honor class)
+  * Major CPA: 3.92
+* M.S. in Computer Science, University of Nebraska - Lincoln, 2021 (expected)
+  * CPA: 4.0
+
+Publications
+======
+  <ul>{% for post in site.publications %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
 
 Work experience
 ======
