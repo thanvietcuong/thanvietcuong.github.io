@@ -16,6 +16,6 @@ find a Maximum Induced Matching on interval and circular-arc graphs. Inspired of
 we have proposed some competitive programming problems for some programming contests in
 Vietnam in recent years
 
-[Download paper here](http://academicpages.github.io/files/paper3.pdf)
+[Download paper here](http://thanvietcuong.github.io/files/lastest_algo_graph_ioi.pdf)
 
-Recommended citation: Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3).
+Recommended citation: PT DO, BT PHAM, VC THAN. (2015). "Latest Algorithms on Particular Graph Classes." <i>IOI Journal</i>.
