@@ -14,7 +14,7 @@ description              : &description "Master Student in University of Nebrask
 url                      : https://thanvietcuong.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "thanvietcuong.github.io"
-teaser                   : "cuongtv.jpg"
+teaser                   : "cuongtv.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
