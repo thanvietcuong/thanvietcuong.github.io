@@ -7,7 +7,6 @@ author_profile: true
 
 {% include base_path %}
 
-======
 *	First place in ICPC North Central North America Regional Contest 2019.
 *	Rank 6th (Second Prize) in ACM ICPC Asia Regional Contest 2018.
 *	Second Prize in Vietnamese Olympiad in Informatics for Undergraduate 2018.
