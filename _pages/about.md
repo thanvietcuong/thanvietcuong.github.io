@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-I am a Master Student at University of Nebraska, Lincoln. I am currently working under the advise of Dr. Deogun and will complete my Master next semester. My interest is Theoretical Computer Science in general and graph algorithms in particular.
+I am a first year Ph.D. Student at University of Massachusetts Amherst. I am currently working under the advise of Dr. Hung Le. My interest is Theoretical Computer Science in general and graph algorithms in particular. I earned my B.S. degree in Computer Science (honors program) from Hanoi University of Science and Technology and my M.S. degree in Computer Science from University of Nebraska at Lincoln.
 
-I am applying for a Ph.D position in Fall 2021. My plan is to continue studying theory of Computer Science and its open problems. If you have any question about my information, please contact me via email: cthan2@huskers.unl.edu.
+Beside research, I am also interested in programming and math contests. When I was an undergraduate student, I participated in many competitions in mathematics and programming (the International Collegiate Programming Contest). I was fortunate enough to get good results in those contests.
+
+If you have any question about my information, please contact me via email: cthan@umass.edu.
