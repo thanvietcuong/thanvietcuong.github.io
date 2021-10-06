@@ -17,6 +17,7 @@ Education
 * M.S. in Computer Science, University of Nebraska - Lincoln, 2021
   * CPA: 4.0
 * Ph.D. in Computer Science, University of Massachussets Amherst, 2021 - present
+
 Publications
 ======
   <ul>{% for post in site.publications %}
