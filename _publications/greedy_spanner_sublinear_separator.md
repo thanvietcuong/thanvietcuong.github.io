@@ -1,7 +1,7 @@
 ---
 title: "Greedy Spanners in Euclidean Spaces Admit Sublinear Separators"
 collection: publications
-date: 2022
+date: 2022 - 01 - 07
 venue: 'SODA'
 paperurl: 'https://arxiv.org/abs/2107.06490'
 ---
