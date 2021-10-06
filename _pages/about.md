@@ -13,3 +13,7 @@ I am a first year Ph.D. Student at University of Massachusetts Amherst. I am cur
 Beside research, I am also interested in programming and math contests. When I was an undergraduate student, I participated in many competitions in mathematics and programming (the International Collegiate Programming Contest). I was fortunate enough to get good results in those contests.
 
 If you have any question about my information, please contact me via email: cthan@umass.edu.
+
+## News
+
+- **[Oct 2021]** Our paper "Greedy Spanners in Euclidean Spaces Admit Sublinear Separators" accepted to [SODA 2022](https://www.siam.org/conferences/cm/conference/soda22).
