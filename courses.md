@@ -17,3 +17,5 @@ author_profile: true
 * Advanced Algorithms
 * Graph Algorithms
 * Machine Learning
+* Database System
+* Operating System
