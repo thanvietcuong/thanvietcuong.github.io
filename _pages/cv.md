@@ -28,13 +28,17 @@ Publications
 
 Work experience
 ======
-* Fall 2017 - Spring 2019: Research Assistant
-  * MSO Lab, Hanoi University of Science and Technology
-  * Project: Algorithms solving the maximal induced matching in perfect graphs
-  
+* Summer 2021 - present: Research Assistant
+  * Design algorithm finding sublinear separators in greedy spanners.
+  * Mentor students in [Early Research Scholars Program](https://sites.google.com/umass.edu/ersp-cics). Assist them in reading papers, formalizing and developing ideas for theoretical problems.
+
 * Fall 2019: Research Assistant
   * Computational Decision Science Lab, University of Nebraska - Lincoln
   * Project: Schelling games on graphs
+ 
+* Fall 2017 - Spring 2019: Research Assistant
+  * MSO Lab, Hanoi University of Science and Technology
+  * Project: Algorithms solving the maximal induced matching in perfect graphs
   
 Skills
 ======
@@ -53,7 +57,7 @@ Teaching
   * Hanoi University of Science and Technology
   * Courses: Design and Analysis Algorithms, Discrete Mathematics
 
-* Fall 2019 - Fall 2020: Teaching Assistant
+* Fall 2019 - Spring 2021: Teaching Assistant
   * University of Nebraska - Lincoln,
   * Courses: Introduction to Computer Science, Design and Analysis Algorithms
   
