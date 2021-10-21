@@ -19,6 +19,7 @@ Education
 * B.S. in Computer Science, Hanoi University of Science and Technology, 2019
   * CPA: 3.69 (rank 1st in the honor class)
   * Major CPA: 3.92
+
 Publications
 ======
   <ul>{% for post in site.publications %}
