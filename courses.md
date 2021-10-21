@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-
+* Abstract Algebra
 * Linear Algebra
 * Calculus 1, 2, 3
 * Discrete Mathematics
@@ -16,3 +16,4 @@ author_profile: true
 * Automata, Compile and Languages
 * Advanced Algorithms
 * Graph Algorithms
+* Machine Learning
