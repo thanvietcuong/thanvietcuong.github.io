@@ -12,7 +12,7 @@ I am a first year Ph.D. student at University of Massachusetts Amherst. I am cur
 
 Beside research, I am also interested in programming and math contests. When I was an undergraduate student, I participated in many competitions in mathematics and programming (the International Collegiate Programming Contest). I was fortunate enough to get good results in those contests.
 
-The pdf version of my CV can be download from [this site](https://thanvietcuong.github.io/files/Resume_Research.pdf). A more detailed version can be found [here](https://thanvietcuong.github.io/cv/). If you have any question about my information, please contact me via my email: [cthan@umass.edu](cthan@umass.edu).
+The pdf version of my CV can be downloaded from [this site](https://thanvietcuong.github.io/files/Resume_Research.pdf). A more detailed version can be found [here](https://thanvietcuong.github.io/cv/). If you have any question about my information, please contact me via my email: [cthan@umass.edu](cthan@umass.edu).
 
 ## News
 
