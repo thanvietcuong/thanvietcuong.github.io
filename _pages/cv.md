@@ -13,7 +13,7 @@ Education
 ======
 * Ph.D. in Computer Science, University of Massachussets Amherst, 2021 - present
   * Doing research in graph algorithms
-  * Advisor: Dr. Hung Le 
+  * Advisor: [Dr. Hung Le]{https://hunglvosu.github.io} 
 * M.S. in Computer Science, University of Nebraska - Lincoln, 2021
   * CPA: 4.0
 * B.S. in Computer Science, Hanoi University of Science and Technology, 2019
@@ -52,7 +52,7 @@ Teaching
   * Hanoi University of Science and Technology
   * Courses: Design and Analysis Algorithms, Discrete Mathematics
 
-* Fall 2019 - present: Teaching Assistant
+* Fall 2019 - Fall 2020: Teaching Assistant
   * University of Nebraska - Lincoln,
   * Courses: Introduction to Computer Science, Design and Analysis Algorithms
   
