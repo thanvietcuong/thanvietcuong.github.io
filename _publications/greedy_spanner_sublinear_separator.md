@@ -2,6 +2,7 @@
 title: "Greedy Spanners in Euclidean Spaces Admit Sublinear Separators"
 collection: publications
 date: 2022-01-07
+excerpt: 'We prove that greedy spanners admit sublinear separator in Euclidean Spaces. Moreover, we extend the result to bound doubling dimension spaces. We prove that there exists a spanner with sublinear separator and bounded degree. This resolves an open question from 2010.'
 venue: 'SODA'
 paperurl: 'https://arxiv.org/abs/2107.06490'
 citation: 'H Le, C Than. (2021). &quot;Greedy Spanners in Euclidean Spaces Admit Sublinear Separators .&quot; <i>2022 33rd ACM-SIAM Symposium on Discrete Algorithms (SODA22)</i>.'
