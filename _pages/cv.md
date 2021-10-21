@@ -11,13 +11,14 @@ redirect_from:
 
 Education
 ======
+* Ph.D. in Computer Science, University of Massachussets Amherst, 2021 - present
+  * Doing research in graph algorithms
+  * Advisor: Dr. Hung Le 
+* M.S. in Computer Science, University of Nebraska - Lincoln, 2021
+  * CPA: 4.0
 * B.S. in Computer Science, Hanoi University of Science and Technology, 2019
   * CPA: 3.69 (rank 1st in the honor class)
   * Major CPA: 3.92
-* M.S. in Computer Science, University of Nebraska - Lincoln, 2021
-  * CPA: 4.0
-* Ph.D. in Computer Science, University of Massachussets Amherst, 2021 - present
-
 Publications
 ======
   <ul>{% for post in site.publications %}
