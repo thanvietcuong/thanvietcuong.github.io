@@ -12,4 +12,4 @@ Let G = (V, E) be an undirected graph, where V is the vertex set and E is the ed
 
 [Download paper here](http://thanvietcuong.github.io/files/mim_permutation_graph.pdf)
 
-Recommended citation: VC Than, PT Do. (2018). "An O (n√ n log log n) average case algorithm for the maximum induced matching problem in permutation graphs." <i>5th Asian Conference on Defense Technology (ACDT)</i>. 1(1).
+Recommended citation: VC Than, PT Do. (2018). "An O (n√ n log log n) average case algorithm for the maximum induced matching problem in permutation graphs." <i>5th Asian Conference on Defense Technology (ACDT)</i>.
