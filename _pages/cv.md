@@ -13,7 +13,7 @@ Education
 ======
 * Ph.D. in Computer Science, University of Massachussets Amherst, 2021 - present
   * Doing research in graph algorithms
-  * Advisor: [Dr. Hung Le]{https://hunglvosu.github.io} 
+  * Advisor: [Dr. Hung Le](https://hunglvosu.github.io) 
 * M.S. in Computer Science, University of Nebraska - Lincoln, 2021
   * CPA: 4.0
 * B.S. in Computer Science, Hanoi University of Science and Technology, 2019
