@@ -5,7 +5,7 @@ permalink: /publication/2015-10-01-paper-title-number-3
 excerpt: 'This paper is about algorithms solving maximum induced matching and its application in competitive programming.'
 date: 2020-09-23
 venue: 'IOI Journal'
-citation: 'PT DO, BT PHAM, VC THAN. (2015). &quot;Latest Algorithms on Particular Graph Classes.&quot; <i>IOI Journal</i>. 1(3).'
+citation: 'PT DO, BT PHAM, VC THAN. (2015). &quot;Latest Algorithms on Particular Graph Classes.&quot; <i>IOI Journal</i>.'
 ---
 Many optimization problems such as Maximum Independent Set, Maximum Clique,
 Minimum Clique Cover and Maximum Induced Matching are NP-hard on general graphs. However, they could be solved in polynomial time when restricted to some particular graph classes
