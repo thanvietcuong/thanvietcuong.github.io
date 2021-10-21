@@ -5,7 +5,6 @@ permalink: /publication/2015-10-01-paper-title-number-3
 excerpt: 'This paper is about algorithms solving maximum induced matching and its application in competitive programming.'
 date: 2020-09-23
 venue: 'IOI Journal'
-paperurl: 'https://ioinformatics.org/journal/v14_2020_21_35.pdf'
 citation: 'PT DO, BT PHAM, VC THAN. (2015). &quot;Latest Algorithms on Particular Graph Classes.&quot; <i>IOI Journal</i>. 1(3).'
 ---
 Many optimization problems such as Maximum Independent Set, Maximum Clique,
