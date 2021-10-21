@@ -5,7 +5,7 @@ date: 2022-01-07
 excerpt: 'We prove that greedy spanners admit sublinear separator in Euclidean Spaces. Moreover, we extend the result to bound doubling dimension spaces. We prove that there exists a spanner with sublinear separator and bounded degree. This resolves an open question from 2010.'
 venue: 'SODA'
 paperurl: 'https://arxiv.org/abs/2107.06490'
-citation: 'H Le, C Than. (2021). &quot;Greedy Spanners in Euclidean Spaces Admit Sublinear Separators .&quot; <i>2022 33rd ACM-SIAM Symposium on Discrete Algorithms (SODA22)</i>.'
+citation: 'H Le, C Than. (2021). &quot;Greedy Spanners in Euclidean Spaces Admit Sublinear Separators .&quot; <i>The 33rd ACM-SIAM Symposium on Discrete Algorithms (SODA22)</i>.'
 ---
 The greedy spanner in a low dimensional Euclidean space is a fundamental geometric construction that has been extensively studied over three decades as it possesses the two most basic properties of a good spanner: constant maximum degree and constant lightness.  Recently, Eppstein and Khodabandeh showed that the greedy spanner in $\mathbb{R}^2$ admits a sublinear separator in a strong sense: any subgraph of $k$ vertices of the greedy spanner in $\mathbb{R}^2$ has a separator of size $O(\sqrt{k})$.  Their technique is inherently planar and is not extensible to higher dimensions. They left  showing the existence of a small separator for the greedy spanner  in $\mathbb{R}^d$ for any constant $d\geq 3$  as an open problem. 
 
