@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a first year Ph.D. student at University of Massachusetts Amherst. I am currently working under the supervision of [Dr. Hung Le](https://hunglevosu.github.io). My interest is Theoretical Computer Science in general and graph algorithms in particular. I earned my B.S. degree in Computer Science (honors program) from Hanoi University of Science and Technology and my M.S. degree in Computer Science from University of Nebraska at Lincoln.
+I am a first year Ph.D. student at University of Massachusetts Amherst. I am currently working under the supervision of [Dr. Hung Le](https://hunglvosu.github.io). My interest is Theoretical Computer Science in general and graph algorithms in particular. I earned my B.S. degree in Computer Science (honors program) from Hanoi University of Science and Technology and my M.S. degree in Computer Science from University of Nebraska at Lincoln.
 
 Beside research, I am also interested in programming and math contests. When I was an undergraduate student, I participated in many competitions in mathematics and programming (the International Collegiate Programming Contest). I was fortunate enough to get good results in those contests.
 
