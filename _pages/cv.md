@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-The pdf version of my CV can be downloaded from [h](https://thanvietcuong.github.io/files/Resume_Research.pdf).
+The pdf version of my CV can be downloaded from [here](https://thanvietcuong.github.io/files/Resume_Research.pdf).
 
 Education
 ======
