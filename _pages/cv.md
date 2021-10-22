@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+The pdf version of my CV can be downloaded from [h](https://thanvietcuong.github.io/files/Resume_Research.pdf).
+
 Education
 ======
 * Ph.D. in Computer Science, University of Massachussets Amherst, 2021 - present
