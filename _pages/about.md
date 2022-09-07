@@ -16,4 +16,5 @@ If you have any question about my information, please contact me via my email: [
 
 ## News
 
+- **[Aug 2022]** I will visit Tel Aviv-University in a research exchange.
 - **[Oct 2021]** Our paper "Greedy Spanners in Euclidean Spaces Admit Sublinear Separators" accepted to [SODA 2022](https://www.siam.org/conferences/cm/conference/soda22).
