@@ -15,6 +15,7 @@ Beside research, I am also interested in programming and math contests. When I w
 If you have any question about my information, please contact me via my email: [cthan@umass.edu](cthan@umass.edu).
 
 ## News
+- **[Oct 2023]** Our paper "Shortcut Partitions in Minor-Free Graphs: Steiner Point Removal, Distance Oracles, Tree Covers, and More" got accepted to SODA24
 - **[July 2023]** Our paper "Shortcut Partitions in Minor-Free Graphs: Steiner Point Removal, Distance Oracles, Tree Covers, and More" was uploaded to [Arxiv](https://arxiv.org/pdf/2308.00555.pdf).
 - **[July 2023]** Our paper "Covering Planar Metrics (and Beyond): O(1) Trees Suffice" is accepted to [FOCS 2023](https://focs.computer.org/2023/). Thank every co-author for your hard work!
 - **[July 2023]** Our paper "Optimal Fault-Tolerant Spanners in Euclidean and Doubling Metrics: Breaking the $\Omega (\log n) $ Lightness Barrier" is accepted to [FOCS 2023](https://focs.computer.org/2023/). Thank [Hung Le](https://hunglvosu.github.io) and [Shay Solomon](https://sites.google.com/site/soloshay/home?authuser=0) for your great mentorship.
