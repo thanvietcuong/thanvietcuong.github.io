@@ -20,8 +20,8 @@ If you have any question about my information, please contact me via my email: [
 - **[July 2023]** Our paper "Shortcut Partitions in Minor-Free Graphs: Steiner Point Removal, Distance Oracles, Tree Covers, and More" was uploaded to [Arxiv](https://arxiv.org/pdf/2308.00555.pdf).
 - **[July 2023]** Our paper "Covering Planar Metrics (and Beyond): O(1) Trees Suffice" is accepted to [FOCS 2023](https://focs.computer.org/2023/). Thank every co-author for your hard work!
 - **[July 2023]** Our paper "Optimal Fault-Tolerant Spanners in Euclidean and Doubling Metrics: Breaking the $\Omega (\log n) $ Lightness Barrier" is accepted to [FOCS 2023](https://focs.computer.org/2023/). Thank [Hung Le](https://hunglvosu.github.io) and [Shay Solomon](https://sites.google.com/site/soloshay/home?authuser=0) for your great mentorship.
-<!-- **[June 2023]** Our manuscript "Resolving the Steiner Point Removal Problem in Planar Graphs via Shortcut Partitions" was uploaded to [Arxiv](https://arxiv.org/pdf/2306.06235.pdf).
+<!--  **[June 2023]** Our manuscript "Resolving the Steiner Point Removal Problem in Planar Graphs via Shortcut Partitions" was uploaded to [Arxiv](https://arxiv.org/pdf/2306.06235.pdf).
 - **[May 2023]** I will intern at Google Research as a Student Researcher in Summer 2023.
 - **[Mar 2023]** Our paper "Greedy Spanners in Euclidean Spaces Admit Sublinear Separators" is accepted to [TALG](https://dl.acm.org/journal/talg).
 - **[Aug 2022]** I will visit Tel Aviv-University in a research exchange.
-- **[Oct 2021]** Our paper "Greedy Spanners in Euclidean Spaces Admit Sublinear Separators" is accepted to [SODA 2022](https://www.siam.org/conferences/cm/conference/soda22).-->
+- **[Oct 2021]** Our paper "Greedy Spanners in Euclidean Spaces Admit Sublinear Separators" is accepted to [SODA 2022](https://www.siam.org/conferences/cm/conference/soda22).  -->
