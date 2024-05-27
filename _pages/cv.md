@@ -30,6 +30,9 @@ Publications
 
 Work experience
 ======
+* Summer 2023: Student Researcher at Google Research
+  * Design and Implement graph based sampling algorithm for LLM
+    
 * Summer 2021 - present: Research Assistant
   * Design algorithm finding sublinear separators in greedy spanners.
   * Mentor students in [Early Research Scholars Program](https://sites.google.com/umass.edu/ersp-cics). Assist them in reading papers, formalizing and developing ideas for theoretical problems.
