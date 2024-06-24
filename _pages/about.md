@@ -15,6 +15,7 @@ Beside research, I am also interested in programming and math contests. When I w
 If you have any question about my information, please contact me via my email: [cthan@umass.edu](cthan@umass.edu).
 
 ## News
+- **[June 2024]** Our paper "Towards Instance-Optimal Euclidean Spanners" got accepted to FOCS24
 - **[Jan 2024]** Our paper ["Optimal Euclidean Tree Covers"](https://arxiv.org/pdf/2403.17754) got accepted to SoCG24
 - **[Oct 2023]** Our paper "Shortcut Partitions in Minor-Free Graphs: Steiner Point Removal, Distance Oracles, Tree Covers, and More" got accepted to SODA24
 - **[July 2023]** Our paper "Shortcut Partitions in Minor-Free Graphs: Steiner Point Removal, Distance Oracles, Tree Covers, and More" was uploaded to [Arxiv](https://arxiv.org/pdf/2308.00555.pdf).
