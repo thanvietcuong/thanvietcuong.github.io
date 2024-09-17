@@ -4,7 +4,7 @@ collection: publications
 date: 2024-10-10
 excerpt: 'We propose an algorithm constructing an approximate instance-optimal spanner for Euclidean space. Our algorithm achieves optimal sparsity and lightness, with a small trade-off on the stretch.'
 venue: 'FOCS'
-citation: 'Hung Le, Shay Solomon, Cuong Than, Csaba D. Toth, Tianyi Zhang. (2024). &quot;Towards Instance-Optimal Euclidean Spanners. &quot; <i> The 65th IEEE Symposium on Foundations of Computer Science (FOCS 2024)</i>.</i>.'
+citation: 'Hung Le, Shay Solomon, Cuong Than, Csaba D. Toth, Tianyi Zhang. (2024). &quot;Towards Instance-Optimal Euclidean Spanners. &quot; <i> The 65th IEEE Symposium on Foundations of Computer Science (FOCS 2024)</i>.'
 ---
 
 [Download paper here](https://arxiv.org/pdf/2409.08227)
