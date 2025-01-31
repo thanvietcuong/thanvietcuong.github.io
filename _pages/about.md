@@ -15,6 +15,7 @@ Beside research, I am also interested in programming and math contests. When I w
 If you have any question about my information, please contact me via my email: [cthan@umass.edu](cthan@umass.edu).
 
 ## News
+- **[Jan 2025]** Our paper "Light Tree Covers, Routing, and Path-Reporting Oracles via  Spanning Tree Covers in Doubling Graphs" got accepted to STOC 2025. Thank every co-authors for your hard work. I now have papers in three conferences: FOCS, STOC and SODA. This is one of my dream before Ph.D. 
 - **[Sep 2024]** Our paper "Matchings in Low-Arboricity Graphs in the Dynamic Graph Stream Model" got accepted to FSTTCS 2024.
 - **[Sep 2024]** Our paper "Towards Instance-Optimal Euclidean Spanners" was uploaded to [Arxiv](https://arxiv.org/pdf/2409.08227).
 - **[June 2024]** Our paper "Towards Instance-Optimal Euclidean Spanners" got accepted to FOCS24
