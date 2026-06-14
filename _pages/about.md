@@ -14,7 +14,7 @@ Beside research, I am also interested in programming and math contests. When I w
 
 If you have any question about my information, please contact me via my email: [cthan@umass.edu](cthan@umass.edu).
 
-**I am on the job market.**
+**I am currently on the job market and seeking faculty, postdoctoral, and industry research positions.**
 
 ## News
 - **[Feb 2026]** Three papers: ["Approximating Euclidean Shallow-Light Trees"](https://arxiv.org/pdf/2512.10797), ["Tree-Like Shortcuttings of Trees"](https://arxiv.org/pdf/2510.14918), and Optimal Bounds for Spanners and Tree Covers in Doubling Metrics (partially on [Arxiv](https://arxiv.org/pdf/2508.11555)) got accepted to SoCG26.
