@@ -6,6 +6,8 @@ excerpt: 'We prove that greedy spanners admit sublinear separator in Euclidean S
 venue: 'SODA'
 citation: 'H Le, C Than. (2021). &quot;Greedy Spanners in Euclidean Spaces Admit Sublinear Separators .&quot; <i>The 33rd ACM-SIAM Symposium on Discrete Algorithms (SODA22)</i>.'
 authors: 'H Le, C Than'
+journal: 'ACM Transactions on Algorithms (TALG)'
+journal_short: 'TALG'
 paperurl: 'https://arxiv.org/abs/2107.06490'
 pubtype: 'conference'
 ---

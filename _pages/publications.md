@@ -13,7 +13,7 @@ author_profile: true
 
 {% assign pubs = site.publications | sort: "date" | reverse %}
 {% assign conference = pubs | where: "pubtype", "conference" %}
-{% assign journal = pubs | where: "pubtype", "journal" %}
+{% assign journal = pubs | where_exp: "p", "p.journal" %}
 
 ## Conference Papers
 
@@ -28,5 +28,5 @@ author_profile: true
 ## Journal Papers
 
 <ul class="pub-list">
-{% for post in journal %}{% include publication-item.html %}{% endfor %}
+{% for post in journal %}{% include publication-item.html journal=true %}{% endfor %}
 </ul>

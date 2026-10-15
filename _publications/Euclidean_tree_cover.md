@@ -6,6 +6,8 @@ excerpt: 'We propose an algorithm constructing a (Steiner and non-Steiner) tree 
 venue: 'SoCG'
 citation: 'Hsien-Chih Chang, Jonathan Conroy, Hung Le, Lazar Milenkovic, Shay Solomon, Cuong Than. (2024). &quot;Optimal Euclidean Tree Covers. &quot; <i> The 40th International Symposium on Computational Geometry (SoCG 2024)</i>.'
 authors: 'Hsien-Chih Chang, Jonathan Conroy, Hung Le, Lazar Milenkovic, Shay Solomon, Cuong Than'
+journal: 'Discrete & Computational Geometry, 75(2):625–659'
+journal_short: 'DCG'
 paperurl: 'https://arxiv.org/pdf/2403.17754'
 pubtype: 'conference'
 ---

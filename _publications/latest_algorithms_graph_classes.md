@@ -7,6 +7,8 @@ date: 2020-09-23
 venue: 'IOI Journal'
 citation: 'T Do, T Pham, C Than. (2020). &quot;Latest Algorithms on Particular Graph Classes.&quot; <i>IOI Journal</i>.'
 authors: 'T Do, T Pham, C Than'
+journal: 'Olympiads in Informatics (IOI Journal)'
+journal_short: 'IOI J.'
 paperurl: 'https://thanvietcuong.github.io/files/lastest_algo_graph_ioi.pdf'
 pubtype: 'journal'
 ---
