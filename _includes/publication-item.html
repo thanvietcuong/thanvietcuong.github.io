@@ -1,0 +1,14 @@
+{% include base_path %}
+<li class="pub-item">
+  {% if include.journal %}
+  <span class="pub-venue">{{ post.journal_short | default: post.venue }}</span>
+  {% else %}
+  <span class="pub-venue">{{ post.venue }} {{ post.date | date: "%Y" }}</span>
+  {% endif %}
+  <strong>{% if post.paperurl %}<a href="{{ post.paperurl }}">{{ post.title }}</a>{% else %}{{ post.title }}{% endif %}</strong><br>
+  <span class="pub-authors">{{ post.authors | replace: "Cuong Than", "<strong>Cuong Than</strong>" | replace: "C Than", "<strong>C Than</strong>" }}</span><br>
+  {% if include.journal and post.journal %}<span class="pub-note"><i>{{ post.journal }}</i>{% if post.pubtype == "conference" %}. Conference version: {{ post.venue }} {{ post.date | date: "%Y" }}.{% endif %}</span><br>
+  {% elsif post.journal %}<span class="pub-note">Journal version: <i>{{ post.journal }}</i>.</span><br>
+  {% elsif post.note %}<span class="pub-note">{{ post.note }}</span><br>{% endif %}
+  <span class="pub-links">{% if post.paperurl %}<a href="{{ post.paperurl }}">PDF</a> &middot; {% endif %}<a href="{{ base_path }}{{ post.url }}">Details</a></span>
+</li>
