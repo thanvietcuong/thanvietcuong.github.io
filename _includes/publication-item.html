@@ -1,0 +1,7 @@
+{% include base_path %}
+<li class="pub-item">
+  <span class="pub-venue">{{ post.venue }} {{ post.date | date: "%Y" }}</span>
+  <strong>{% if post.paperurl %}<a href="{{ post.paperurl }}">{{ post.title }}</a>{% else %}{{ post.title }}{% endif %}</strong><br>
+  <span class="pub-authors">{{ post.authors | replace: "Cuong Than", "<strong>Cuong Than</strong>" | replace: "C Than", "<strong>C Than</strong>" }}</span><br>
+  <span class="pub-links">{% if post.paperurl %}<a href="{{ post.paperurl }}">PDF</a> &middot; {% endif %}<a href="{{ base_path }}{{ post.url }}">Details</a></span>
+</li>

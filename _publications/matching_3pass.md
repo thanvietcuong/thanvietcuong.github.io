@@ -5,4 +5,9 @@ date: 2024-12-16
 excerpt: 'We propose a three-pass algorithm finding the approximate size of the maximum mathching in a bounded arboricity graph. Our algorithm achieves space complexity $O(\sqrt{n}).$'
 venue: 'FSTTCS'
 citation: 'Christian Konrad, Andrew McGregor, Rik Sengupta and Cuong Than. (2024). &quot;Matchings in Low-Arboricity Graphs in the Dynamic Graph Stream Model. &quot; <i> The Foundations of Software Technology and Theoretical Computer Science (FSTTCS 2024)</i>.'
+authors: 'Christian Konrad, Andrew McGregor, Rik Sengupta and Cuong Than'
+paperurl: 'https://drops.dagstuhl.de/storage/00lipics/lipics-vol323-fsttcs2024/LIPIcs.FSTTCS.2024/LIPIcs.FSTTCS.2024.pdf#page=579'
+pubtype: 'conference'
 ---
+
+[Download paper here](https://drops.dagstuhl.de/storage/00lipics/lipics-vol323-fsttcs2024/LIPIcs.FSTTCS.2024/LIPIcs.FSTTCS.2024.pdf#page=579)
